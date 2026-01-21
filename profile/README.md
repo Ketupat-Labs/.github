@@ -1,12 +1,29 @@
-## Hi there 👋
+# .github
+README
+# 🍚 Ketupat Labs
 
-<!--
+Hi there! Welcome to **Ketupat Labs** 
+a fun little corner where a group of **Bioinformatics Students** in University of Technology, Malaysia (UTM) come together to **collaborate on projects and hackathons**. 💻✨  
 
-**Here are some ideas to get you started:**
+We’re all about **learning by doing**, building our **portfolio of projects and hackathon experiences**, and exploring anything **computer science-related**, not just computational biology!  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 🛠 What We Do
+
+- **Collaborative Projects:** Team up to create projects across any CS-related field.  
+- **Hackathons & Competitions:** Take part in challenges to innovate, code, and compete.  
+- **Portfolio Building:** Compile our work and achievements for experience and growth.  
+- **Learning & Sharing:** Share skills, tips, and knowledge in a supportive environment.  
+
+---
+
+## 🎯 Our Mission
+
+To **collaborate on diverse CS-focused projects and hackathons**, building a rich portfolio while learning, creating, and having fun together! 🚀  
+
+---
+
+## 👀 Keep Up With Us
+
+We will continuously add new project repository to the organization
