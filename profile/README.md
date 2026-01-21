@@ -1,5 +1,5 @@
 
-# 🍚 Ketupat Labs
+# 🧩 Ketupat Labs
 
 Hi there! Welcome to **Ketupat Labs** 
 an organization where a group of **Bioinformatics Students** in University of Technology, Malaysia (UTM) come together to **collaborate on projects and hackathons**. 💻✨  
