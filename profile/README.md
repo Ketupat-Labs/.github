@@ -1,5 +1,4 @@
-# .github
-README
+
 # 🍚 Ketupat Labs
 
 Hi there! Welcome to **Ketupat Labs** 
