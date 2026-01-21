@@ -21,6 +21,6 @@ To **collaborate on diverse CS-focused projects and hackathons**, building a ric
 
 ---
 
-## 👀 Keep Up With Us
+## 👀 Connect With Us
 
-We will continuously add new project repository to the organization
+📧 ketupatlabs@gmail.com
