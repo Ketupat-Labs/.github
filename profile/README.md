@@ -3,9 +3,7 @@ README
 # 🍚 Ketupat Labs
 
 Hi there! Welcome to **Ketupat Labs** 
-a fun little corner where a group of **Bioinformatics Students** in University of Technology, Malaysia (UTM) come together to **collaborate on projects and hackathons**. 💻✨  
-
-We’re all about **learning by doing**, building our **portfolio of projects and hackathon experiences**, and exploring anything **computer science-related**, not just computational biology!  
+an organization where a group of **Bioinformatics Students** in University of Technology, Malaysia (UTM) come together to **collaborate on projects and hackathons**. 💻✨  
 
 ---
 
